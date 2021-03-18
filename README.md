@@ -21,5 +21,8 @@ to make it resizable. SO RESIZE IT AND SEE HOW BEAUTIFUL IT IS IF YOU DONT I WIL
 Q: Darkmode when?
 A: Never.
 
+Q: Why no music?
+A: I dont like commiting crimes. Dont pirate.
+
 Q: You suck.
 A: Same to you
