@@ -1,2 +1,2 @@
 # Hangman
-Hangman game in Swing
+Hangman game in Java. GUI interface made with Swing.
